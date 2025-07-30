@@ -1,8 +1,9 @@
 <script>
-import WelcomeToSvelte from "./Basic Svelte/Introduction/WelcomeToSvelte.svelte";
+  import YourFirstComponent from "./Basic Svelte/Introduction/YourFirstComponent.svelte";
+
 </script>
 
 <main>
-<WelcomeToSvelte/>
+<YourFirstComponent/>
 </main>
 
