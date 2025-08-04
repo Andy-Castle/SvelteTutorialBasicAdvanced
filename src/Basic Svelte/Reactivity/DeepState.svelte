@@ -3,12 +3,19 @@
 
 <script>
 	let numbers = $state([1, 2, 3, 4]);
+  let result = $state(0)
 
 	function addNumber() {
 		// TODO implement
     // numbers[numbers.length] = numbers.length + 1;
     numbers.push(numbers.length + 1);
 	}
+
+  function sumAllNumbers(){
+    for (const num of numbers) {
+      result += num
+    }
+  }
 </script>
 
 <p>{numbers.join(' + ')} = ...</p>
@@ -19,3 +26,11 @@
 
 <!-- La reactividad profunda se implementa utilizando proxies, y las mutaciones
  en el proxy no afectan al objeto original -->
+<hr>
+ <div>
+ <button onclick={sumAllNumbers}>Resultado</button>
+ {#if result != 0}
+   <p>Resultado: {result}</p>
+ {/if}
+
+ </div>
