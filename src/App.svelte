@@ -6,10 +6,11 @@
   // import HtmLtags from "./Basic Svelte/Introduction/HTMLtags.svelte";
   // import State from "./Basic Svelte/Reactivity/State.svelte";
   // import DeepState from "./Basic Svelte/Reactivity/DeepState.svelte";
-  import DerivedState from "./Basic Svelte/Reactivity/DerivedState.svelte";
+  // import DerivedState from "./Basic Svelte/Reactivity/DerivedState.svelte";
+  import InspectingState from "./Basic Svelte/Reactivity/InspectingState.svelte";
 </script>
 
 <main>
-<DerivedState/>
+<InspectingState/>
 </main>
 
