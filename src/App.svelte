@@ -8,10 +8,11 @@
   // import DeepState from "./Basic Svelte/Reactivity/DeepState.svelte";
   // import DerivedState from "./Basic Svelte/Reactivity/DerivedState.svelte";
   // import InspectingState from "./Basic Svelte/Reactivity/InspectingState.svelte";
-  import Effects from "./Basic Svelte/Reactivity/Effects.svelte";
+  // import Effects from "./Basic Svelte/Reactivity/Effects.svelte";
+  import UniversalReactivity from "./Basic Svelte/Reactivity/UniversalReactivity/UniversalReactivity.svelte";
 </script>
 
 <main>
-<Effects/>
+<UniversalReactivity/>
 </main>
 
