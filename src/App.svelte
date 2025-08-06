@@ -9,10 +9,11 @@
   // import DerivedState from "./Basic Svelte/Reactivity/DerivedState.svelte";
   // import InspectingState from "./Basic Svelte/Reactivity/InspectingState.svelte";
   // import Effects from "./Basic Svelte/Reactivity/Effects.svelte";
-  import UniversalReactivity from "./Basic Svelte/Reactivity/UniversalReactivity/UniversalReactivity.svelte";
+  // import UniversalReactivity from "./Basic Svelte/Reactivity/UniversalReactivity/UniversalReactivity.svelte";
+  import DeclaringProps from "./Basic Svelte/Props/DeclaringProps/DeclaringProps.svelte";
 </script>
 
 <main>
-<UniversalReactivity/>
+<DeclaringProps/>
 </main>
 
