@@ -17,12 +17,11 @@
   // import ElseBlocks from "./Basic Svelte/Logic/ElseBlocks.svelte";
   // import ElseIfBlocks from "./Basic Svelte/Logic/ElseIfBlocks.svelte";
   // import EachBlocks from "./Basic Svelte/Logic/EachBlocks.svelte";
-  import KeyedEachBlocks from "./Basic Svelte/Logic/KeyedEachBlocks/KeyedEachBlocks.svelte";
-
-
+  // import KeyedEachBlocks from "./Basic Svelte/Logic/KeyedEachBlocks/KeyedEachBlocks.svelte";
+  import AwaitBlocks from "./Basic Svelte/Logic/AwaitBlocks/AwaitBlocks.svelte";
 </script>
 
 <main>
-<KeyedEachBlocks/>
+<AwaitBlocks/>
 </main>
 
