@@ -12,10 +12,11 @@
   // import UniversalReactivity from "./Basic Svelte/Reactivity/UniversalReactivity/UniversalReactivity.svelte";
   // import DeclaringProps from "./Basic Svelte/Props/DeclaringProps/DeclaringProps.svelte";
   // import DefaultValues from "./Basic Svelte/Props/DefaultValues/DefaultValues.svelte";
-  import SpreadProps from "./Basic Svelte/Props/SpreadProps/SpreadProps.svelte";
+  // import SpreadProps from "./Basic Svelte/Props/SpreadProps/SpreadProps.svelte";
+    import IfBlocks from "./Basic Svelte/Logic/IfBlocks.svelte";
 </script>
 
 <main>
-<SpreadProps/>
+<IfBlocks/>
 </main>
 
