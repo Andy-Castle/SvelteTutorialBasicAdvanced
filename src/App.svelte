@@ -10,10 +10,11 @@
   // import InspectingState from "./Basic Svelte/Reactivity/InspectingState.svelte";
   // import Effects from "./Basic Svelte/Reactivity/Effects.svelte";
   // import UniversalReactivity from "./Basic Svelte/Reactivity/UniversalReactivity/UniversalReactivity.svelte";
-  import DeclaringProps from "./Basic Svelte/Props/DeclaringProps/DeclaringProps.svelte";
+  // import DeclaringProps from "./Basic Svelte/Props/DeclaringProps/DeclaringProps.svelte";
+  import DefaultValues from "./Basic Svelte/Props/DefaultValues/DefaultValues.svelte";
 </script>
 
 <main>
-<DeclaringProps/>
+<DefaultValues/>
 </main>
 
