@@ -15,11 +15,13 @@
   // import SpreadProps from "./Basic Svelte/Props/SpreadProps/SpreadProps.svelte";
   // import IfBlocks from "./Basic Svelte/Logic/IfBlocks.svelte";
   // import ElseBlocks from "./Basic Svelte/Logic/ElseBlocks.svelte";
-  import ElseIfBlocks from "./Basic Svelte/Logic/ElseIfBlocks.svelte";
+  // import ElseIfBlocks from "./Basic Svelte/Logic/ElseIfBlocks.svelte";
+  import EachBlocks from "./Basic Svelte/Logic/EachBlocks.svelte";
+
 
 </script>
 
 <main>
-<ElseIfBlocks/>
+<EachBlocks/>
 </main>
 
