@@ -18,10 +18,11 @@
   // import ElseIfBlocks from "./Basic Svelte/Logic/ElseIfBlocks.svelte";
   // import EachBlocks from "./Basic Svelte/Logic/EachBlocks.svelte";
   // import KeyedEachBlocks from "./Basic Svelte/Logic/KeyedEachBlocks/KeyedEachBlocks.svelte";
-  import AwaitBlocks from "./Basic Svelte/Logic/AwaitBlocks/AwaitBlocks.svelte";
+  // import AwaitBlocks from "./Basic Svelte/Logic/AwaitBlocks/AwaitBlocks.svelte";
+  import DoMevents from "./Basic Svelte/Events/DOMevents.svelte";
 </script>
 
 <main>
-<AwaitBlocks/>
+<DoMevents/>
 </main>
 
