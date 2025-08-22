@@ -20,10 +20,11 @@
   // import KeyedEachBlocks from "./Basic Svelte/Logic/KeyedEachBlocks/KeyedEachBlocks.svelte";
   // import AwaitBlocks from "./Basic Svelte/Logic/AwaitBlocks/AwaitBlocks.svelte";
   // import DoMevents from "./Basic Svelte/Events/DOMevents.svelte";
-  import InlineHandlers from "./Basic Svelte/Events/InlineHandlers.svelte";
+  // import InlineHandlers from "./Basic Svelte/Events/InlineHandlers.svelte";
+  import Capturing from "./Basic Svelte/Events/Capturing.svelte";
 </script>
 
 <main>
-<InlineHandlers/>
+<Capturing/>
 </main>
 
