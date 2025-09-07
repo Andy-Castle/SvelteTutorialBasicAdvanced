@@ -22,10 +22,11 @@
   // import DoMevents from "./Basic Svelte/Events/DOMevents.svelte";
   // import InlineHandlers from "./Basic Svelte/Events/InlineHandlers.svelte";
   // import Capturing from "./Basic Svelte/Events/Capturing.svelte";
-  import ComponentEvents from "./Basic Svelte/Events/ComponentEvents/ComponentEvents.svelte";
+  // import ComponentEvents from "./Basic Svelte/Events/ComponentEvents/ComponentEvents.svelte";
+  import SpreadingEvents from "./Basic Svelte/Events/SpreadingEvents/SpreadingEvents.svelte";
 </script>
 
 <main>
-<ComponentEvents/>
+<SpreadingEvents/>
 </main>
 
