@@ -24,10 +24,12 @@
   // import Capturing from "./Basic Svelte/Events/Capturing.svelte";
   // import ComponentEvents from "./Basic Svelte/Events/ComponentEvents/ComponentEvents.svelte";
   // import SpreadingEvents from "./Basic Svelte/Events/SpreadingEvents/SpreadingEvents.svelte";
-  import TextInputs from "./Basic Svelte/Bindings/TextInputs.svelte"
+  // import TextInputs from "./Basic Svelte/Bindings/TextInputs.svelte"
+    import NumericInputs from "./Basic Svelte/Bindings/NumericInputs.svelte";
+
 </script>
 
 <main>
-<TextInputs/>
+<NumericInputs/>
 </main>
 
