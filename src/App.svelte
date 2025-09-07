@@ -23,10 +23,11 @@
   // import InlineHandlers from "./Basic Svelte/Events/InlineHandlers.svelte";
   // import Capturing from "./Basic Svelte/Events/Capturing.svelte";
   // import ComponentEvents from "./Basic Svelte/Events/ComponentEvents/ComponentEvents.svelte";
-  import SpreadingEvents from "./Basic Svelte/Events/SpreadingEvents/SpreadingEvents.svelte";
+  // import SpreadingEvents from "./Basic Svelte/Events/SpreadingEvents/SpreadingEvents.svelte";
+  import TextInputs from "./Basic Svelte/Bindings/TextInputs.svelte"
 </script>
 
 <main>
-<SpreadingEvents/>
+<TextInputs/>
 </main>
 
