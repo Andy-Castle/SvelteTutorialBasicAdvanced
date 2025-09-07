@@ -25,11 +25,11 @@
   // import ComponentEvents from "./Basic Svelte/Events/ComponentEvents/ComponentEvents.svelte";
   // import SpreadingEvents from "./Basic Svelte/Events/SpreadingEvents/SpreadingEvents.svelte";
   // import TextInputs from "./Basic Svelte/Bindings/TextInputs.svelte"
-    import NumericInputs from "./Basic Svelte/Bindings/NumericInputs.svelte";
-
+  // import NumericInputs from "./Basic Svelte/Bindings/NumericInputs.svelte";
+  import CheckboxInputs from "./Basic Svelte/Bindings/CheckboxInputs.svelte";
 </script>
 
 <main>
-<NumericInputs/>
+<CheckboxInputs/>
 </main>
 
