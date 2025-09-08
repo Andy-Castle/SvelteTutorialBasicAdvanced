@@ -29,10 +29,11 @@
   // import CheckboxInputs from "./Basic Svelte/Bindings/CheckboxInputs.svelte";
   // import SelectBindings from "./Basic Svelte/Bindings/SelectBindings.svelte";
   // import GroupInputs from "./Basic Svelte/Bindings/GroupInputs.svelte";
-  import SelectMultiple from "./Basic Svelte/Bindings/SelectMultiple.svelte";
+  // import SelectMultiple from "./Basic Svelte/Bindings/SelectMultiple.svelte";
+  import TextareaInputs from "./Basic Svelte/Bindings/TextareaInputs.svelte";
 </script>
 
 <main>
-<SelectMultiple/>
+<TextareaInputs/>
 </main>
 
