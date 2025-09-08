@@ -30,10 +30,11 @@
   // import SelectBindings from "./Basic Svelte/Bindings/SelectBindings.svelte";
   // import GroupInputs from "./Basic Svelte/Bindings/GroupInputs.svelte";
   // import SelectMultiple from "./Basic Svelte/Bindings/SelectMultiple.svelte";
-  import TextareaInputs from "./Basic Svelte/Bindings/TextareaInputs.svelte";
+  // import TextareaInputs from "./Basic Svelte/Bindings/TextareaInputs.svelte";
+  import TheClassAttribute from "./Basic Svelte/ClassesAndStyles/TheClassAttribute/TheClassAttribute.svelte";
 </script>
 
 <main>
-<TextareaInputs/>
+<TheClassAttribute/>
 </main>
 
