@@ -28,10 +28,11 @@
   // import NumericInputs from "./Basic Svelte/Bindings/NumericInputs.svelte";
   // import CheckboxInputs from "./Basic Svelte/Bindings/CheckboxInputs.svelte";
   // import SelectBindings from "./Basic Svelte/Bindings/SelectBindings.svelte";
-  import GroupInputs from "./Basic Svelte/Bindings/GroupInputs.svelte";
+  // import GroupInputs from "./Basic Svelte/Bindings/GroupInputs.svelte";
+  import SelectMultiple from "./Basic Svelte/Bindings/SelectMultiple.svelte";
 </script>
 
 <main>
-<GroupInputs/>
+<SelectMultiple/>
 </main>
 
