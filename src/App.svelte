@@ -31,10 +31,11 @@
   // import GroupInputs from "./Basic Svelte/Bindings/GroupInputs.svelte";
   // import SelectMultiple from "./Basic Svelte/Bindings/SelectMultiple.svelte";
   // import TextareaInputs from "./Basic Svelte/Bindings/TextareaInputs.svelte";
-  import TheClassAttribute from "./Basic Svelte/ClassesAndStyles/TheClassAttribute/TheClassAttribute.svelte";
+  // import TheClassAttribute from "./Basic Svelte/ClassesAndStyles/TheClassAttribute/TheClassAttribute.svelte";
+  import TheStyleDirective from "./Basic Svelte/ClassesAndStyles/TheStyleDirective/TheStyleDirective.svelte";
 </script>
 
 <main>
-<TheClassAttribute/>
+<TheStyleDirective/>
 </main>
 
