@@ -34,10 +34,12 @@
   // import TheClassAttribute from "./Basic Svelte/ClassesAndStyles/TheClassAttribute/TheClassAttribute.svelte";
   // import TheStyleDirective from "./Basic Svelte/ClassesAndStyles/TheStyleDirective/TheStyleDirective.svelte";
   // import ComponentStyles from "./Basic Svelte/ClassesAndStyles/ComponentStyles/ComponentStyles.svelte";
-  import TheUseDirective from "./Basic Svelte/Actions/TheUseDirective/TheUseDirective.svelte";
+  // import TheUseDirective from "./Basic Svelte/Actions/TheUseDirective/TheUseDirective.svelte";
+  import AddingParameters from "./Basic Svelte/Actions/AddingParameters.svelte";
+
 </script>
 
 <main>
-<TheUseDirective/>
+<AddingParameters/>
 </main>
 
