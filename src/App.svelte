@@ -33,10 +33,11 @@
   // import TextareaInputs from "./Basic Svelte/Bindings/TextareaInputs.svelte";
   // import TheClassAttribute from "./Basic Svelte/ClassesAndStyles/TheClassAttribute/TheClassAttribute.svelte";
   // import TheStyleDirective from "./Basic Svelte/ClassesAndStyles/TheStyleDirective/TheStyleDirective.svelte";
-  import ComponentStyles from "./Basic Svelte/ClassesAndStyles/ComponentStyles/ComponentStyles.svelte";
+  // import ComponentStyles from "./Basic Svelte/ClassesAndStyles/ComponentStyles/ComponentStyles.svelte";
+  import TheUseDirective from "./Basic Svelte/Actions/TheUseDirective.svelte";
 </script>
 
 <main>
-<ComponentStyles/>
+<TheUseDirective/>
 </main>
 
