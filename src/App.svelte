@@ -38,11 +38,11 @@
   // import AddingParameters from "./Basic Svelte/Actions/AddingParameters.svelte";
   // import TheTransitionDirective from "./Basic Svelte/Transitions/TheTransitionDirective.svelte";
   // import AddingParameters from "./Basic Svelte/Transitions/AddingParameters.svelte"
-  import InAndOut from "./Basic Svelte/Transitions/InAndOut.svelte";
-
+  // import InAndOut from "./Basic Svelte/Transitions/InAndOut.svelte";
+  import CustomCSSTransitions from "./Basic Svelte/Transitions/CustomCSSTransitions.svelte";
 </script>
 
 <main>
-<InAndOut/>
+<CustomCSSTransitions/>
 </main>
 
