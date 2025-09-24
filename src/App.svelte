@@ -36,11 +36,12 @@
   // import ComponentStyles from "./Basic Svelte/ClassesAndStyles/ComponentStyles/ComponentStyles.svelte";
   // import TheUseDirective from "./Basic Svelte/Actions/TheUseDirective/TheUseDirective.svelte";
   // import AddingParameters from "./Basic Svelte/Actions/AddingParameters.svelte";
-  import TheTransitionDirective from "./Basic Svelte/Transitions/TheTransitionDirective.svelte";
+  // import TheTransitionDirective from "./Basic Svelte/Transitions/TheTransitionDirective.svelte";
+  import AddingParameters from "./Basic Svelte/Transitions/AddingParameters.svelte"
 
 </script>
 
 <main>
-<TheTransitionDirective/>
+<AddingParameters/>
 </main>
 
