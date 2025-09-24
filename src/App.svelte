@@ -37,11 +37,12 @@
   // import TheUseDirective from "./Basic Svelte/Actions/TheUseDirective/TheUseDirective.svelte";
   // import AddingParameters from "./Basic Svelte/Actions/AddingParameters.svelte";
   // import TheTransitionDirective from "./Basic Svelte/Transitions/TheTransitionDirective.svelte";
-  import AddingParameters from "./Basic Svelte/Transitions/AddingParameters.svelte"
+  // import AddingParameters from "./Basic Svelte/Transitions/AddingParameters.svelte"
+  import InAndOut from "./Basic Svelte/Transitions/InAndOut.svelte";
 
 </script>
 
 <main>
-<AddingParameters/>
+<InAndOut/>
 </main>
 
