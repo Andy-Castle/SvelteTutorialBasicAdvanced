@@ -41,10 +41,11 @@
   // import InAndOut from "./Basic Svelte/Transitions/InAndOut.svelte";
   // import CustomCSSTransitions from "./Basic Svelte/Transitions/CustomCSSTransitions.svelte";
   // import CustomJSTransitions from "./Basic Svelte/Transitions/CustomJSTransitions.svelte";
-  import TransitionEvents from "./Basic Svelte/Transitions/TransitionEvents.svelte";
+  // import TransitionEvents from "./Basic Svelte/Transitions/TransitionEvents.svelte";
+  import GlobalTransitions from "./Basic Svelte/Transitions/GlobalTransitions.svelte";
 </script>
 
 <main>
-<TransitionEvents/>
+<GlobalTransitions/>
 </main>
 
