@@ -42,10 +42,11 @@
   // import CustomCSSTransitions from "./Basic Svelte/Transitions/CustomCSSTransitions.svelte";
   // import CustomJSTransitions from "./Basic Svelte/Transitions/CustomJSTransitions.svelte";
   // import TransitionEvents from "./Basic Svelte/Transitions/TransitionEvents.svelte";
-  import GlobalTransitions from "./Basic Svelte/Transitions/GlobalTransitions.svelte";
+  // import GlobalTransitions from "./Basic Svelte/Transitions/GlobalTransitions.svelte";
+  import KeyBlocks from "./Basic Svelte/Transitions/KeyBlocks/KeyBlocks.svelte";
 </script>
 
 <main>
-<GlobalTransitions/>
+<KeyBlocks/>
 </main>
 
